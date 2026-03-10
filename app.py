@@ -3,7 +3,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/mydb
 spring.datasource.username=root
 spring.datasource.password=password
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.port=5000
+spring.port=5002
 
 # JPA / Hibernate settings
 spring.jpa.hibernate.ddl-auto=update
